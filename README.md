@@ -1,9 +1,9 @@
 
 # 👋 Hi, I'm Akhil Sharma 
 
-### 🌟 Software Engineer | Node.js & Java Developer | Health Informatics Specialist
+### 🌟 Software Engineer | Node.js & Java Developer | Beginner GoLang Developer
 
-I'm a dynamic project engineer with a strong background in health informatics, systems development, and API integration. Currently working at **CDAC**, I've been enhancing and rectifying health informatics modules, optimizing system performance, and developing robust APIs for seamless module operation.
+I'm a dynamic project engineer with a strong background in Java, systems development, and API integration. Currently working at **CDAC**, I've been enhancing and rectifying health informatics modules, optimizing system performance, and developing robust APIs for seamless module operation.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a dynamic project engineer with a strong background in health informatics, s
 - **Project Management**: Skilled in design, planning, and effective RFI coordination.
 - **Data Structures & Algorithms**
 - **Version Control**: Git
-
+- **I am learning GoLang.**
 ---
 
 ## 💼 Experience:
