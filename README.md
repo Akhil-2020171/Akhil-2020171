@@ -1,9 +1,8 @@
-
 # 👋 Hi, I'm Akhil Sharma 
 
 ### 🌟 Software Engineer | Node.js & Java Developer | Beginner GoLang Developer
 
-I'm a dynamic project engineer with a strong background in Java, systems development, and API integration. Currently working at **CDAC**, I've been enhancing and rectifying health informatics modules, optimizing system performance, and developing robust APIs for seamless module operation.
+Dynamic Project Engineer with strong experience managing critical modules for AIIMS and Tamil Nadu state. Skilled in frontend development (HTML, JavaScript) and backend engineering (Java, Spring Boot), with a proven ability to enhance production systems and optimize databases using pgAdmin. Demonstrated capacity to quickly master challenging frameworks like Struts 2 and drive rapid problem resolution through effective UAT processes.
 
 ---
 
@@ -14,22 +13,34 @@ I'm a dynamic project engineer with a strong background in Java, systems develop
 - **Project Management**: Skilled in design, planning, and effective RFI coordination.
 - **Data Structures & Algorithms**
 - **Version Control**: Git
-- **I am learning GoLang.**
+- **Databases**: PostgreSQL, pgAdmin
+- **Frontend Development**: HTML, CSS, JavaScript
+- **CI/CD**: GitHub Actions
 ---
 
 ## 💼 Experience:
 
 ### Project Engineer, CDAC (07/2024 - Present)
-- Handling a major health informatics module (OPD).
-- Enhancing old code for improved functionality and performance.
-- Integrating multiple key sections (Chief Complaints, Diagnosis, Investigations).
-- Ensuring seamless API integration and efficient data retrieval.
+- Module Ownership & Enhancement: 
+  - Entrusted with the critical OPD (Out Patient Department) module supporting AIIMS and Tamil Nadu state projects. Managed new feature implementations, resolved ongoing issues, and deployed production-level bug fixes efficiently.
+- EMR (Electronic Medical Report) Module Management: 
+  - Maintained and enhanced the EMR module, addressing PRS (Problem Resolution Sheets) with a strong focus on quality and rapid production deployments.
+- Technical Proficiencies:
+  - Frontend: Developed new features using HTML and JavaScript, enhancing user interfaces and overall application usability.
+  - Backend: Programmed robust Java code and built Spring Boot WAR packages to streamline new process and API requirements.
+- Database & UAT Involvement:
+  - Conducted query optimization using pgAdmin and implemented package-procedure creations, ensuring smooth integration and production readiness.
+- Actively participated in UAT processes to validate enhancements and ensure project deliverables met stringent quality standards.
+- Adaptability & Skill Growth: 
+  - Quickly adapted to a challenging Struts 2 framework; an environment known for its steep learning curve and delivered high-quality results despite being relatively new to the technology stack.
 
-### Software Intern, Blind2Visionary NGO (01/2024 - 06/2024)
-- Developed a mobile app in **React Native** for blind users, incorporating YOLOv8 for object detection.
-- Engineered Python server for API integration and object detection.
+### [Software Intern, Blind2Visionary NGO (01/2024 - 06/2024)](https://github.com/Akhil-2020171/MyCamEyes)
+- Designed mobile application utilizing React Native tailored for blind users.
+- Engineered a camera app incorporating YOLOv8 to identify objects and colors.
+- Supported visually impaired users with advanced accessibility features.
+- Engineered an API-calling Python server to enhance YOLOv8 object detection.
 
-### Research Intern, IIIT Delhi (01/2023 - 05/2023)
+### [Research Intern, IIIT Delhi (01/2023 - 05/2023)](https://github.com/Akhil-2020171/Monitoring-the-Key-Parameters-of-the-Circadian-Rhythm-for-the-life-style-observations)
 - Developed a wearable hardware module with ECG, PPG, Accelerometer, and GSR sensors.
 - Presented the project at the **Research Innovation and Incubation Showcase (RIISE) 2023**.
 
@@ -37,7 +48,7 @@ I'm a dynamic project engineer with a strong background in Java, systems develop
 
 ## 🎓 Education:
 - **B.Tech in Electrical, Electronics, and Communications Engineering**  
-  **IIIT Delhi**, Graduating 06/2024
+  **IIIT Delhi** (2020 - 2024)
 
 ---
 
