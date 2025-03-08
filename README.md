@@ -8,7 +8,7 @@ I'm a dynamic project engineer with a strong background in Java, systems develop
 ---
 
 ## 🚀 Skills & Expertise:
-- **Languages & Frameworks**: Node.js, Java, GoLang, jQuery
+- **Languages & Frameworks**: Node.js, Java, GoLang, jQuery, Spring Boot
 - **API Development**: Expertise in designing efficient, error-handled APIs.
 - **Systems Development**: Handling major health informatics modules and integrating multiple key functionalities.
 - **Project Management**: Skilled in design, planning, and effective RFI coordination.
@@ -52,7 +52,7 @@ I'm a dynamic project engineer with a strong background in Java, systems develop
 - **Kickstart Competitions**:  
    - Round E Rank: 6710  
    - Round F Rank: 3254
-- **HackerRank**: 3 Stars for Problem-Solving and Java Basics
+- **HackerRank**: 5 Stars for Problem-Solving and Java Basics
 - [Check out my LeetCode Profile for more problem-solving accomplishments](https://leetcode.com/u/Sharmaakhil574/)
 
 ---
