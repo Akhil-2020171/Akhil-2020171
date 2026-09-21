@@ -46,6 +46,16 @@ Dynamic Project Engineer with strong experience managing critical modules for AI
 
 ---
 
+## 🧩 Projects:
+
+### Clinical SNOMED Normalizer -- Clinical NLP and SNOMED CT Linking
+- **Stack**: Python, FastAPI, NLP, Docker
+- Developed a FastAPI-based clinical NLP service that extracts symptoms, diseases, procedures, and medications from clinical text and links them to SNOMED CT concepts.
+- Integrated transformer-based NER models, local SNOMED CT terminology loading, lexical and hierarchical matching, and deterministic assertion detection.
+- Exposed RESTful endpoints for batch and real-time inference, and containerized the service with Docker for reproducible deployment across environments.
+
+---
+
 ## 🎓 Education:
 - **B.Tech in Electrical, Electronics, and Communications Engineering**  
   **IIIT Delhi** (2020 - 2024)
